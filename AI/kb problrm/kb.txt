@@ -1,0 +1,6 @@
+P=>Q
+L^M=>P
+B^L=>M  
+A^B=>L
+A
+B
